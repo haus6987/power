@@ -4,7 +4,7 @@ const { mkchar } = require("./Database/dataschema.js");
 
 /* ---Added Anime Character list---  /
 
-0 --- Atlas MD
+0 --- Guru MD
 1 --- Power
 2 --- Makima
 3 --- Denji
@@ -21,7 +21,7 @@ Image Source: https://wallpapercave.com/
 
 
 global.charID0 = {
-    botName : "Atlas MD",
+    botName : "Guru MD",
     botVideo : fs.readFileSync("./Assets/atlas.mp4"),
     botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
